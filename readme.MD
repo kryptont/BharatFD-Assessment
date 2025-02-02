@@ -1,5 +1,4 @@
 # FAQ Management System
-
 ## Overview
 
 The FAQ Management System is a Node.js application designed to manage frequently asked questions (FAQs) in multiple languages. It features a RESTful API, caching for performance, and automated translation support.
